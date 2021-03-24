@@ -1,0 +1,32 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    width: 300px;
+    margin: 0 auto;
+}
+.form label{
+    color: white;
+}
+.form button{
+    margin: 25px 0 ;
+}
+.form input[type=file]{
+    display: none;
+}
+.full{
+    display: flex;
+    flex-direction: row;
+}
+.full div:first-child{
+    flex: 1;
+}
+.exp ul{
+    padding: 0 15px;
+}
+.img{
+    position: absolute;
+    width: 120px;
+    right: 67px;
+    border-radius: 50%;
+}
