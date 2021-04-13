@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/CV-maker/static/css/main.81c7f0bd.chunk.css",
+    "main.js": "/CV-maker/static/js/main.6f25ec9d.chunk.js",
+    "main.js.map": "/CV-maker/static/js/main.6f25ec9d.chunk.js.map",
+    "runtime-main.js": "/CV-maker/static/js/runtime-main.1ec77931.js",
+    "runtime-main.js.map": "/CV-maker/static/js/runtime-main.1ec77931.js.map",
+    "static/js/2.9c5fa33a.chunk.js": "/CV-maker/static/js/2.9c5fa33a.chunk.js",
+    "static/js/2.9c5fa33a.chunk.js.map": "/CV-maker/static/js/2.9c5fa33a.chunk.js.map",
+    "index.html": "/CV-maker/index.html",
+    "static/css/main.81c7f0bd.chunk.css.map": "/CV-maker/static/css/main.81c7f0bd.chunk.css.map",
+    "static/js/2.9c5fa33a.chunk.js.LICENSE.txt": "/CV-maker/static/js/2.9c5fa33a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ec77931.js",
+    "static/js/2.9c5fa33a.chunk.js",
+    "static/css/main.81c7f0bd.chunk.css",
+    "static/js/main.6f25ec9d.chunk.js"
+  ]
+}
